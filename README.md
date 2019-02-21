@@ -3,3 +3,4 @@ Here is a repository that contains the code and the instructions that are needed
 On localhost folder you can find the code for testing the code on localhost for any bugs.
 
 This is a usefull link for learning how sockets work http://www.steves-internet-guide.com/tcpip-ports-sockets/
+How sockets work at Python https://docs.python.org/2/library/socket.html
