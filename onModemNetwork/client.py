@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 
 import socket
-
+# To find the IP use the command ifconfig
 
 TCP_IP = '192.168.2.19'
 TCP_PORT = 5005
