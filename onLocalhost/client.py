@@ -2,7 +2,7 @@
 #!/usr/bin/env python
 
 import socket
-
+#print needs parenthesis
 
 TCP_IP = '127.0.0.1'
 TCP_PORT = 5005
@@ -16,4 +16,4 @@ while 1:
 	data = s.recv(BUFFER_SIZE)
 s.close()
 
-print "received data:", data
+print ("received data:", data)
