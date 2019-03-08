@@ -4,7 +4,7 @@
 import socket
 # To find the IP use the command ifconfig
 
-TCP_IP = '192.168.2.12'
+TCP_IP = '192.168.2.15'
 TCP_PORT = 5005
 BUFFER_SIZE = 1024
 MESSAGE = "Hello, World!"
